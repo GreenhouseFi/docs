@@ -72,12 +72,12 @@
       "anchors": [
         {
           "anchor": "Documentation",
-          "href": "https://mintlify.com/docs",
+          "href": "https://docs.greenhouse.finance/main",
           "icon": "book-open-cover"
         },
         {
           "anchor": "Blog",
-          "href": "https://mintlify.com/blog",
+          "href": "https://docs.greenhouse.finance/main",
           "icon": "newspaper"
         }
       ]
