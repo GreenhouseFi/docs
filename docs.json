@@ -20,14 +20,14 @@
             ]
           },
           {
-            "group": "Customization",
+            "group": "ignore",
             "pages": [
               "essentials/settings",
               "essentials/navigation"
             ]
           },
           {
-            "group": "Writing content",
+            "group": "ignore",
             "pages": [
               "essentials/markdown",
               "essentials/code",
@@ -36,7 +36,7 @@
             ]
           },
           {
-            "group": "AI tools",
+            "group": "ignore",
             "pages": [
               "ai-tools/cursor",
               "ai-tools/claude-code",
