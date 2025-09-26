@@ -19,13 +19,7 @@
               "index"
             ]
           },
-          {
-            "group": "ignore",
-            "pages": [
-              "essentials/settings",
-              "essentials/navigation"
-            ]
-          },
+         
           {
             "group": "ignore",
             "pages": [
